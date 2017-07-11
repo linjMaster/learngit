@@ -7,3 +7,4 @@ creating a new branch is quick nd simple.
 ---------------
 branch dev
 	and branch lin
+	and branch zhang
