@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
 test git commit <指定文件> -m "" commond.
-creating a new branch is quick. end simple.
+creating a new branch is quick nd simple.
